@@ -1,0 +1,40 @@
+{
+  "name": "bloody-strip-proptypes",
+  "version": "1.0.0",
+  "description": "babel loader to remove propTypes in production",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "author": "bloodyowl",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^5.1.11",
+    "babel-core": "^5.1.11",
+    "tape": "^4.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "babel": "^5.1.11",
+    "babel-core": "^5.1.11",
+    "tape": "^4.0.0"
+  },
+  "peerDependencies": {
+    "babel-core": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bloodyowl/strip-proptypes.git"
+  },
+  "keywords": [
+    "babel",
+    "invariant",
+    "production"
+  ],
+  "bugs": {
+    "url": "https://github.com/bloodyowl/strip-proptypes/issues"
+  },
+  "homepage": "https://github.com/bloodyowl/strip-proptypes"
+}
