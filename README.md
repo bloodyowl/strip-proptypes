@@ -1,6 +1,8 @@
-# strip-proptypes
+# DEPRECATED: strip-proptypes
 
 [![Build Status](https://travis-ci.org/bloodyowl/strip-proptypes.svg?branch=master)](https://travis-ci.org/bloodyowl/strip-proptypes)
+
+Use [babel-plugin-transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types), which is both compatible with Babel 6 and removes `propType` declarations from stateless functional components.
 
 ## install
 
